@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545314739668",
+    "project_id": "fir-chat-28e1b",
+    "storage_bucket": "fir-chat-28e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545314739668:android:21275a151d46b8f86e7241",
+        "android_client_info": {
+          "package_name": "com.gultendogan.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545314739668-23m5jviv796imqn1741a9lt8bjm0dh7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvIWlggBfmWOIU32DgY2hnAAejxY9EQQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545314739668-23m5jviv796imqn1741a9lt8bjm0dh7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
